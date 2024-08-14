@@ -40,11 +40,14 @@ This project is a React-based dashboard for analytics that consumes data from an
 ## Installation and Setup
 
 1. **Clone the Repository**:
+   ```bash
    git clone https://github.com/redddFF/react-dashboard-analytics
    cd react-dashboard-analytics
 2. **Install Dependencies**:
+   ```bash
    npm install
 3. **Start the Application**:
+   ```bash
    npm start
 4. **Environment Variables**:
    Ensure that the WebSocket API endpoint is correctly set in your environment configuration.
